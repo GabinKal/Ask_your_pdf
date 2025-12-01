@@ -1,5 +1,7 @@
-📄 Ask Your PDF
-📌 Description du projet
+# 📄 Ask Your PDF
+
+
+## 📌 Description du projet
 
 Ask Your PDF est une application interactive développée avec Streamlit qui permet de poser des questions en langage naturel à partir d’un fichier PDF. Le projet illustre l’utilisation des LLMs (Large Language Models) et de la recherche sémantique via embeddings pour interroger des documents, tout en mettant l’accent sur :
 
@@ -9,17 +11,18 @@ La segmentation de texte pour gérer de gros documents (text splitters)
 
 La simplicité d’utilisation via une interface web interactive
 
-⚙️ Fonctionnalités principales
+## ⚙️ Fonctionnalités principales
 
-📄 Upload PDF : importer un document PDF à interroger.
+### 📄 Upload PDF : 
+importer un document PDF à interroger.
 
-🔎 Recherche sémantique : retrouver les passages les plus pertinents via OpenAI embeddings et FAISS.
+### -🔎 Recherche sémantique : retrouver les passages les plus pertinents via OpenAI embeddings et FAISS.
 
-💬 Question/Réponse : poser une question et obtenir une réponse contextualisée à partir du contenu du PDF.
+### -💬 Question/Réponse : poser une question et obtenir une réponse contextualisée à partir du contenu du PDF.
 
-🖥️ Interface Streamlit : interface web simple pour uploader le fichier et saisir les questions.
+### -🖥️ Interface Streamlit : interface web simple pour uploader le fichier et saisir les questions.
 
-🛠️ Technologies utilisées
+## 🛠️ Technologies utilisées
 
 Python 3.11
 
