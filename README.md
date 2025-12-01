@@ -13,13 +13,13 @@ La simplicité d’utilisation via une interface web interactive
 
 ## ⚙️ Fonctionnalités principales
 
-### -📄 Upload PDF : importer un document PDF à interroger.
+-📄 Upload PDF : importer un document PDF à interroger.
 
-### -🔎 Recherche sémantique : retrouver les passages les plus pertinents via OpenAI embeddings et FAISS.
+-🔎 Recherche sémantique : retrouver les passages les plus pertinents via OpenAI embeddings et FAISS.
 
-### -💬 Question/Réponse : poser une question et obtenir une réponse contextualisée à partir du contenu du PDF.
+-💬 Question/Réponse : poser une question et obtenir une réponse contextualisée à partir du contenu du PDF.
 
-### -🖥️ Interface Streamlit : interface web simple pour uploader le fichier et saisir les questions.
+-🖥️ Interface Streamlit : interface web simple pour uploader le fichier et saisir les questions.
 
 ## 🛠️ Technologies utilisées
 
@@ -37,5 +37,7 @@ Ce projet est conçu à des fins éducatives et démonstratives.
 Il illustre les concepts de :
 
 -Recherche sémantique dans un document PDF
+
 -Question/Réponse avec LLMs
+
 -Construction d’une base vectorielle pour interroger de gros textes
